@@ -1,0 +1,25 @@
+{
+  "items": [
+    {
+      "name": "Rocher",
+      "price": "10.48",
+      "type": "Chocolate",
+      "brand": "Ferrero",
+      "id": 1
+    },
+    {
+      "name": "M140i",
+      "price": "",
+      "type": "Hatchback",
+      "brand": "BMW",
+      "id": 2
+    },
+    {
+      "name": "C63",
+      "price": "30000",
+      "type": "Sports",
+      "brand": "Mercedes",
+      "id": 3
+    }
+  ]
+}
